@@ -1,0 +1,12 @@
+.left,
+.right 
+{
+   display: flex;
+   justify-content: center;
+}
+
+iframe,
+img
+{
+    width: 600px;
+}
